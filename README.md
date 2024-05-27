@@ -8,6 +8,10 @@ Our Projects
 Elke Coin 🚀
 Elke Coin is not just a cryptocurrency, but a movement aimed at making the world of digital assets more accessible and enjoyable.
 
+Contract Address
+For those interested in the technical details or wishing to add Elke Coin to their wallets, here is the contract address: 0xe10d0BD441fFD47aC42f28BAFE5afd548F01B045
+
+
 
 Website: https://elkecoin.com/
 Community: https://elkecoin.com/community
