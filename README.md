@@ -21,8 +21,11 @@ Tutorials and Guides 📚
 We’re committed to helping others navigate the crypto world with ease. Here are some of the tutorials we offer:
 
 How to Create Your MetaMask Wallet :  https://www.youtube.com/watch?v=SG1AG7UOHLQ&ab_channel=ElkeCoin
+
 How to Create a Trust Wallet : https://www.youtube.com/watch?v=byFguO5-7Z8&ab_channel=ElkeCoin
+
 How to Add Liquidity on PancakeSwap : https://www.youtube.com/watch?v=Z5z4NgO2SR0&ab_channel=ElkeCoin
+
 
 Email contact@elkecoin.com
 Twitter: https://x.com/ElkeCoin
